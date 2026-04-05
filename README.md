@@ -60,10 +60,6 @@ Part IV.  원칙을 적용하는 법          — 실전 적용
     └── final_manuscript.md       # 조립된 전체 원고
 ```
 
-## 저자
-
-김홍수. 토스(Toss) CDAO(Chief Data & AI Officer).
-
 ## 라이선스
 
 All rights reserved.
